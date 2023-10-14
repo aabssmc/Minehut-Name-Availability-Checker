@@ -5,4 +5,4 @@ A simple name availability checker for minehut.com
 - Add a list of words/names in names.txt then run main.py
 
 # License:
-This repostority is licensed under MIT 
+This repostority is licensed under [MIT License]()
